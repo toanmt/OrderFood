@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/drawable-ldpi/card_background.xml" value="0.125" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/drawable-ldpi/yellow_bar.xml" value="0.125" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/drawable-v24/background_white.xml" value="0.125" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/drawable-v24/grey_btn_background.xml" value="0.125" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.125" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/drawable-v24/orange_light_banner.xml" value="0.1225" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/drawable-v24/search_background.xml" value="0.1225" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/drawable/cart_background.xml" value="0.125" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/drawable/grey_bar.xml" value="0.125" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/drawable/orange_button.xml" value="0.125" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/drawable/strikethrough_shape.xml" value="0.125" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/drawable/yellow_btn_background.xml" value="0.125" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/layout/activity_food_detail.xml" value="0.2" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/layout/activity_food_list.xml" value="0.1265625" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/layout/activity_home.xml" value="0.1265625" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/layout/activity_main.xml" value="0.20516304347826086" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/layout/activity_sign_in.xml" value="0.20516304347826086" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/layout/activity_sign_up.xml" value="0.20516304347826086" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/layout/cart_item.xml" value="0.20516304347826086" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/layout/food_item.xml" value="0.1265625" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/layout/fragment_cart.xml" value="0.20516304347826086" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/layout/fragment_food_list.xml" value="0.32116788321167883" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/layout/fragment_menu.xml" value="0.20516304347826086" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/layout/fragment_order.xml" value="0.20516304347826086" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/layout/menu_item.xml" value="0.1265625" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/layout/navigation_header.xml" value="0.20516304347826086" />
+        <entry key="..\:/HocTap/ProjectAndroid/Food/app/src/main/res/menu/menu_home.xml" value="0.275" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
